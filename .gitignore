@@ -1,0 +1,43 @@
+﻿# =====================
+# EMR Project - Root .gitignore
+# =====================
+
+# Build outputs
+backend/target/
+backend/out/
+erm/dist/
+
+# Dependencies
+erm/node_modules/
+
+# IDE
+backend/.idea/
+backend/*.iws
+backend/*.iml
+backend/.gitattributes
+backend/.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Logs
+backend/*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables (don't commit real configs!)
+backend/src/main/resources/application-local.yml
+.env
+.env.local
+.env.*.local
+
+# Documents & archives (not code)
+*.zip
+*.pptx
+*.docx
+*.mp4
+屏幕录制*
+
+# Empty directory placeholder
+bing/
