@@ -100,3 +100,8 @@ MIT
 This project follows the [CLAUDE.md](CLAUDE.md) behavioral guidelines for coding best practices.
 
 
+
+
+## Resume Job Matcher Skill
+
+This project includes the **resume-job-matcher** skill for resume optimization based on JD matching. See [resume-job-matcher-SKILL.md](resume-job-matcher-SKILL.md).
