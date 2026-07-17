@@ -94,3 +94,8 @@ npm run serve
 ## License
 
 MIT
+
+## Development Guidelines
+
+This project follows the [CLAUDE.md](CLAUDE.md) behavioral guidelines for coding best practices.
+
